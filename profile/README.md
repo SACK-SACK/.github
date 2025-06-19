@@ -1,4 +1,4 @@
-![배너]<img width="578" alt="mark" src="https://github.com/user-attachments/assets/18807e70-c5f4-4e21-bfdd-0d982a558650" />
+![배너](https://github.com/user-attachments/assets/18807e70-c5f4-4e21-bfdd-0d982a558650)
 
 <br><br>
 
